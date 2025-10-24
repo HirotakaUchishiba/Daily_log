@@ -1,9 +1,4 @@
 # 解決・定着済み
-
-## 概要
-Inboxで収集・仕分けした質問のうち、学習や再検証を経て解決し、再現できる状態になったもの。
-
-## 最近のDone
 ```dataview
 TABLE file.ctime as "📅 作成", topic as "トピック", tech as "技術"
 FROM "interviews"
